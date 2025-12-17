@@ -18,7 +18,7 @@ export default function Home() {
     <>
       <Head>
         <title>Kou Sophearen</title>
-        <meta name="description" content="Kou Sophearen" />
+        <meta name="description" content="Thol Sopanha" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -29,7 +29,7 @@ export default function Home() {
           <div className={styles.ctas}>
             <a
               className={styles.primary}
-              href="https://www.facebook.com/share/15QY6ee8AR/?mibextid=wwXIfr"
+              href="https://www.facebook.com/share/1BUooU1op4/?mibextid=wwXIfr"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -44,7 +44,7 @@ export default function Home() {
             </a>
             <a
               className={styles.primary}
-              href="https://www.instagram.com/ren_9._9?igsh=MWo5bWJibzBtMXhpMQ%3D%3D&utm_source=qr"
+              href="https://www.instagram.com/hea_mab920702?igsh=MTZrMGp3NmY4Y3BrcA%3D%3D&utm_source=qr"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -59,7 +59,7 @@ export default function Home() {
             </a>
             <a
               className={styles.primary}
-              href="https://t.me/Sophearen_kou"
+              href="https://t.me/bromab_man"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -74,7 +74,7 @@ export default function Home() {
             </a>
             <a
               className={styles.primary}
-              href="https://www.tiktok.com/@rren3?_t=ZS-8tWV18LeWud&_r=1"
+              href="#"
               target="_blank"
               rel="noopener noreferrer"
             >
