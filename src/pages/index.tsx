@@ -17,7 +17,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Kou Sophearen</title>
+        <title>Thol Sopanha</title>
         <meta name="description" content="Thol Sopanha" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
