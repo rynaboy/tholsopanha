@@ -74,7 +74,7 @@ export default function Home() {
             </a>
             <a
               className={styles.primary}
-              href="#"
+              href="www.tiktok.com/@tholsopanha0"
               target="_blank"
               rel="noopener noreferrer"
             >
